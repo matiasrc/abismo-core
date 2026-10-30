@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Repositorio local de capturas generadas en pruebas (no subir fotos de pruebas a Git)
+repositorio/capturas/*
+!repositorio/capturas/.gitkeep
+repositorio/facciones/*
+!repositorio/facciones/.gitkeep
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/

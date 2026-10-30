@@ -1,0 +1,9 @@
+# Dependencias para PC, Mac y Raspberry Pi
+opencv-python>=4.8.0
+pygame>=2.5.0
+python-osc>=1.8.3
+numpy>=1.24.0
+
+# Opcionales (para visión avanzada y NDI)
+# mediapipe>=0.10.0
+# ndi-python>=5.0.0
