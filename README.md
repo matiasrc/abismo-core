@@ -87,5 +87,11 @@ Todos los parámetros se ajustan en un solo lugar sin modificar la lógica:
 
 ---
 
-## 📄 Licencia y Créditos
-Desarrollado para la obra de arte interactivo **"El abismo de la visibilidad"** — Colectivo Biopus.
+## 👥 Créditos y Autoría
+
+**El abismo de la visibilidad**
+
+* **Biopus**: Emiliano Causa y Matías Romero Costas
+* **Matías Jauregui Lorda**
+* **Lisandro Peralta**
+* **PULX**: Colectivo de estudiantes de Diseño Multimedial (Facultad de Artes, Universidad Nacional de La Plata - UNLP)
